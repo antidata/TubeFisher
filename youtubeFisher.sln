@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "youtubeFisher", "youtubeFisher\youtubeFisher.csproj", "{7CEEB88B-B42C-41A4-A8D8-56940C1EDDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CEEB88B-B42C-41A4-A8D8-56940C1EDDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEEB88B-B42C-41A4-A8D8-56940C1EDDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEEB88B-B42C-41A4-A8D8-56940C1EDDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEEB88B-B42C-41A4-A8D8-56940C1EDDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F11959-6CCA-4FDB-BEFF-19973B42E797}.Debug|Any CPU.ActiveCfg = Debug
+		{66F11959-6CCA-4FDB-BEFF-19973B42E797}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
